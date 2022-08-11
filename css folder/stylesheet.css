@@ -1,0 +1,445 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@import url("https://fonts.googleapis.com/css?family=Darker+Grotesque:700,900,600,800");
+
+:root {
+  --black: #000000;
+  --smalt-blue: #50828b;
+  --font-size-m: 15px;
+  --font-size-xxl: 36px;
+  --font-size-xl: 20px;
+  --font-size-l: 16px;
+  --font-family-darker_grotesque: "Darker Grotesque", Helvetica;
+}
+
+.homepage {
+  align-items: center;
+  background-color: #ebd9d8;
+  display: flex;
+  flex-direction: column;
+  height: 2823px;
+  width: 1024px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.overlap-group7 {
+  height: 315px;
+  margin-right: 23px;
+  margin-top: 72px;
+  position: relative;
+  width: 913px;
+}
+
+.spanning-the-5th-flo {
+  left: 5px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 85px;
+  width: 347px;
+}
+
+.darkergrotesque-semi-bold-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-darker_grotesque);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.overlap-group4 {
+  height: 315px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 913px;
+}
+
+.the-palace-loft-role {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 392px;
+}
+
+.darkergrotesque-bold-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-darker_grotesque);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.e30-a5991-hdr-3 {
+  height: 314px;
+  left: 391px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 522px;
+}
+
+.flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 459px;
+  margin-right: 10px;
+  margin-top: 52px;
+  min-width: 860px;
+}
+
+.x1-bcf63-e4-9-ea5-4-b {
+  align-self: flex-end;
+  height: 448px;
+  margin-left: 25px;
+  object-fit: cover;
+  width: 336px;
+}
+
+.flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 236px;
+  width: 499px;
+}
+
+.darkergrotesque-black-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-darker_grotesque);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.about-1 {
+  letter-spacing: 0;
+  min-height: 21px;
+  text-align: center;
+  text-decoration: underline;
+  width: 107px;
+}
+
+.i-am-a-multidiscipli {
+  align-self: flex-end;
+  color: var(--black);
+  font-family: var(--font-family-darker_grotesque);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-top: 45px;
+  min-height: 170px;
+  width: 489px;
+}
+
+.flex-row-3 {
+  align-items: center;
+  display: flex;
+  margin-right: 36px;
+  margin-top: 73px;
+  min-width: 900px;
+}
+
+.sometimes-the-most-e {
+  letter-spacing: 0;
+  margin-bottom: 18px;
+  min-height: 159px;
+  width: 347px;
+}
+
+.darkergrotesque-bold-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-darker_grotesque);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.moodboard-for-ux-ui {
+  height: 307px;
+  margin-left: 44px;
+  object-fit: cover;
+  width: 509px;
+}
+
+.line-2 {
+  height: 4px;
+  margin-top: 36px;
+  width: 1024px;
+}
+
+.overlap-group2 {
+  height: 164px;
+  margin-top: 99px;
+  position: relative;
+  width: 1024px;
+}
+
+.x55-ec562-a-0286-4-f0 {
+  height: 118px;
+  left: 857px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.frame-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 111px;
+  left: 0;
+  position: absolute;
+  top: 53px;
+  width: 1024px;
+}
+
+.overlap-group {
+  align-items: center;
+  background-color: var(--smalt-blue);
+  display: flex;
+  height: 106px;
+  min-width: 1024px;
+  padding: 11px 93px;
+}
+
+.vector-2 {
+  height: 45px;
+  margin-left: 24px;
+  margin-top: 1.2px;
+  width: 48px;
+}
+
+.vector {
+  height: 45px;
+  margin-bottom: 4.8px;
+  width: 48px;
+}
+
+.get-in-touch-bonniebonbonboncom {
+  align-self: flex-start;
+  color: #ffffff;
+  font-family: var(--font-family-darker_grotesque);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-left: 337px;
+  min-height: 41px;
+  text-align: center;
+  width: 215px;
+}
+
+.vector-1 {
+  height: 45px;
+  margin-bottom: 4.8px;
+  margin-left: 25px;
+  width: 48px;
+}
+
+.overlap-group1 {
+  align-items: center;
+  background-color: #d9d9d9;
+  display: flex;
+  flex-direction: column;
+  min-height: 768px;
+  width: 1024px;
+}
+
+.line-1 {
+  height: 1px;
+  margin-top: 97px;
+  width: 1024px;
+}
+
+.flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 626px;
+  margin-top: 44px;
+  min-width: 850px;
+}
+
+.flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 405px;
+  width: 266px;
+}
+
+.darkergrotesque-extra-bold-smalt-blue-36px-2 {
+  color: var(--smalt-blue);
+  font-family: var(--font-family-darker_grotesque);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.uxui {
+  letter-spacing: 0;
+  margin-left: 5px;
+  min-height: 49px;
+  width: 261px;
+}
+
+.experiential {
+  letter-spacing: 0;
+  margin-left: 5px;
+  min-height: 68px;
+  width: 261px;
+}
+
+.name {
+  align-self: flex-start;
+  color: var(--black);
+  font-family: var(--font-family-darker_grotesque);
+  font-size: var(--font-size-xxl);
+  font-weight: 800;
+  letter-spacing: 0;
+  min-height: 54px;
+  width: 225px;
+}
+
+.architecture {
+  letter-spacing: 0;
+  margin-right: 5px;
+  margin-top: 166px;
+  min-height: 68px;
+  width: 261px;
+}
+
+.flex-col-1 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 82px;
+  min-height: 609px;
+  width: 502px;
+}
+
+.overlap-group5 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62f4561927ede0977a7b5a8e/releases/62f46a1e10bb8159f459c656/img/rectangle-2@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 502px;
+  justify-content: flex-end;
+  margin-top: 86px;
+  min-width: 502px;
+  padding: 71px 0;
+}
+
+.e30-a5991-hdr-2 {
+  height: 359px;
+  object-fit: cover;
+  width: 500px;
+}
+
+.flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 21px;
+  min-width: 281px;
+}
+
+.place {
+  letter-spacing: 0;
+  margin-left: 40px;
+  min-height: 21px;
+  text-align: center;
+  width: 67px;
+}
+
+.darkergrotesque-black-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-darker_grotesque);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.work {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 40px;
+  min-height: 21px;
+  text-align: center;
+  width: 67px;
+}
+
+.about {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 21px;
+  text-align: center;
+  width: 67px;
+}
+
+.work-1 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 77px;
+  margin-top: 52px;
+  min-height: 21px;
+  text-align: center;
+  text-decoration: underline;
+  width: 107px;
+}
+
+.overlap-group6 {
+  height: 308px;
+  margin-right: 18px;
+  margin-top: 93px;
+  position: relative;
+  width: 908px;
+}
+
+.overlap-group3 {
+  height: 308px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 903px;
+}
+
+.the-octopus-initiati {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2px;
+  width: 392px;
+}
+
+.download-2 {
+  height: 308px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 529px;
+}
+
+.replacing-the-museum {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 77px;
+  width: 347px;
+}
+
+.span2 {
+  color: var(--black);
+  font-family: var(--font-family-darker_grotesque);
+  font-size: var(--font-size-m);
+  font-weight: 800;
+}
